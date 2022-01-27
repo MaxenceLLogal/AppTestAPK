@@ -1,0 +1,13 @@
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\bin\B2\netstandard2.0\AppTestAPK.deps.json
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\bin\B2\netstandard2.0\AppTestAPK.dll
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\bin\B2\netstandard2.0\ref\AppTestAPK.dll
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\bin\B2\netstandard2.0\AppTestAPK.pdb
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\AppTestAPK.csprojAssemblyReference.cache
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\App.xaml.g.cs
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\MainPage.xaml.g.cs
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\AppTestAPK.AssemblyInfoInputs.cache
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\AppTestAPK.AssemblyInfo.cs
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\XamlC.stamp
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\AppTestAPK.dll
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\ref\AppTestAPK.dll
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK\obj\B2\netstandard2.0\AppTestAPK.pdb

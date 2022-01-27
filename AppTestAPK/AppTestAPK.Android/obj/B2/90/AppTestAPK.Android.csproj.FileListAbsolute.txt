@@ -1,0 +1,3 @@
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK.Android\obj\B2\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK.Android\obj\B2\90\build.props
+C:\PROG\EVOLCTA.NET\XAMARIN\AppTestAPK\AppTestAPK\AppTestAPK.Android\obj\B2\90\adb.props
